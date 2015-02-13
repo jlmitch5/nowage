@@ -6,4 +6,4 @@ A version of Taraka Larson's "The Now Age: Meditations on Sound and the Architec
 
 You should visit http://now-age.org to see the original manifestation of the work.
 
-[here]: http://jlmitch5.github.io/nowage
+[here]: http://jlmitch5.github.io/sandboxes/nowage
